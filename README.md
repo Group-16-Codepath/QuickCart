@@ -29,7 +29,7 @@ Welcome to QuickCart! This app is designed to offer a streamlined and user-frien
 - Add/delete items from the cart
 - View product details, including images
 - Calculate the final price
-- 
+
 ### Chosen API(s)
 
 Harnessing the power of the Best Buy API for a rich, visual, and informative experience.

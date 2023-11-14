@@ -20,15 +20,15 @@ Welcome to QuickCart! This app is designed to offer a streamlined and user-frien
 - **Habit:** The app has the potential to become a habit in daily or weekly shopping routines.
 - **Scope:** Moderate technical challenge with a well-defined product scope.
 
-## Product Specification (Updated 11/13/2023)
+## Product Specification
 
 ### User Features
 
-**Required:**
+User can 
 - Scroll through the item list
 - Add/delete items from the cart
 - View product details, including images
-- Calculate the final price
+- See the final calculated price
 
 ### Chosen API(s)
 
